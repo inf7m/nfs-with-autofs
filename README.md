@@ -7,7 +7,7 @@ Practice repo for working with nfs and autofs service
 2. [nfs.service](#introduction)
 3. [Set-up policy](#set-up-policy)
 
-## autofs.service <a name="introduction-autofs.service></a> </a>
+## autofs.service <a name="introduction-autofs.service></a>
 
 autofs - is a daemon which is automount points
 
